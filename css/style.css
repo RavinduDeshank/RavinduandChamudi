@@ -1911,7 +1911,8 @@ h3 {
 /* line 24, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_location.scss */
 .location_area .location_info .location_inner {
   background: #fff;
-  width: 616px;
+  width: 516px;
+  height: 250px;
   max-width: 616px;
   padding: 54px 60px 54px 60px;
 }
